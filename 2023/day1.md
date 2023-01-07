@@ -1,2 +1,3 @@
-## Day 1
-### January 4, 2023
+# Day 1
+
+## January 4, 2023
